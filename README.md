@@ -1,2 +1,1 @@
-# IntroVUE
-Introducción a VUE
+# Introducción a VUE
